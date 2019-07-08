@@ -1,0 +1,31 @@
+F:\Программирование. Проекты\Студия 2012\Core\Core\bin\Debug\Core.dll
+F:\Программирование. Проекты\Студия 2012\Core\Core\bin\Debug\Core.pdb
+F:\Программирование. Проекты\Студия 2012\Core\Core\bin\Debug\System.Data.SQLite.dll
+F:\Программирование. Проекты\Студия 2012\Core\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+F:\Программирование. Проекты\Студия 2012\Core\Core\obj\Debug\Core.dll
+F:\Программирование. Проекты\Студия 2012\Core\Core\obj\Debug\Core.pdb
+F:\Программирование. Проекты\Студия 2012\Kernel\Kernel\bin\Debug\System.Data.SQLite.dll
+F:\Программирование. Проекты\Студия 2012\Kernel\Kernel\bin\Debug\Kernel.dll
+F:\Программирование. Проекты\Студия 2012\Kernel\Kernel\bin\Debug\Kernel.pdb
+F:\Программирование. Проекты\Студия 2012\Kernel\Kernel\obj\Debug\Kernel.dll
+F:\Программирование. Проекты\Студия 2012\Kernel\Kernel\obj\Debug\Kernel.pdb
+F:\Программирование. Проекты\Студия 2012\Kernel\Kernel\obj\Debug\Kernel.csprojResolveAssemblyReference.cache
+F:\Программирование. Проекты\Проекты\Москва\Москва - версия 1.2.1\Бэта версия ФАНЗ от 13.02.16\Расширения для Fanz\Kernel от 7.02.16\Kernel\bin\Debug\Kernel.dll
+F:\Программирование. Проекты\Проекты\Москва\Москва - версия 1.2.1\Бэта версия ФАНЗ от 13.02.16\Расширения для Fanz\Kernel от 7.02.16\Kernel\bin\Debug\Kernel.pdb
+F:\Программирование. Проекты\Проекты\Москва\Москва - версия 1.2.1\Бэта версия ФАНЗ от 13.02.16\Расширения для Fanz\Kernel от 7.02.16\Kernel\bin\Debug\System.Data.SQLite.dll
+F:\Программирование. Проекты\Проекты\Москва\Москва - версия 1.2.1\Бэта версия ФАНЗ от 13.02.16\Расширения для Fanz\Kernel от 7.02.16\Kernel\obj\Debug\Kernel.dll
+F:\Программирование. Проекты\Проекты\Москва\Москва - версия 1.2.1\Бэта версия ФАНЗ от 13.02.16\Расширения для Fanz\Kernel от 7.02.16\Kernel\obj\Debug\Kernel.pdb
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Kernel от 16.06.16\Kernel\bin\Debug\Kernel.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Kernel от 16.06.16\Kernel\bin\Debug\Kernel.pdb
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Kernel от 16.06.16\Kernel\bin\Debug\System.Data.SQLite.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Debug\Kernel.csprojResolveAssemblyReference.cache
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Debug\Kernel.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Debug\Kernel.pdb
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\bin\Debug\Kernel.dll
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\bin\Debug\Kernel.pdb
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\bin\Debug\System.Data.SQLite.dll
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Debug\Kernel.csprojAssemblyReference.cache
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Debug\Kernel.csproj.CoreCompileInputs.cache
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Debug\Kernel.csproj.CopyComplete
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Debug\Kernel.dll
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Debug\Kernel.pdb

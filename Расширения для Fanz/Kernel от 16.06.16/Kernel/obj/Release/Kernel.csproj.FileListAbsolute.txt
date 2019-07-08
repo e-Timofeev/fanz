@@ -1,0 +1,7 @@
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\bin\Release\Kernel.dll
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\bin\Release\Kernel.pdb
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\bin\Release\System.Data.SQLite.dll
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Release\Kernel.csproj.CoreCompileInputs.cache
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Release\Kernel.csproj.CopyComplete
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Release\Kernel.dll
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Kernel от 16.06.16\Kernel\obj\Release\Kernel.pdb

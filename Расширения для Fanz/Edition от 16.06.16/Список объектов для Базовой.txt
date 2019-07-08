@@ -1,0 +1,42 @@
+==Автозагрузка== отключение при загрузке на главной форме и в форме прогнозирования
+==Главная==
+
+barButtonItem18 - сохранить показатели
+barButtonItem8  - очистить все данные
+barButtonItem10 - проверка показателей
+barButtonItem11 - запуск алгоритма решения
+barButtonItem19 - корректировка решения
+barButtonItem13 - вернуть в работу
+button2         - кнопка решить в исследовании Гауссом (доступно только администратору)
+button3         - решение М-задачи на вкладке Решение М-задачи (доступно только администратору)
+button17        - рассчитать на вкладке результаты расчетов
+button21        - рассчитать на вкладке отклонения от идеального ф.с
+
+==Графика и печать==
+
+barButtonItem22 - в 3d
+barSubItem10    - печать (потом будет доступно при смене статуса)
+barSubItem11    - просмотр (потом будет доступно при смене статуса)
+barButtonItem42 - экспорт в xlsx 
+barButtonItem43 - экспорт в png
+barButtonItem44 - экспорт в jpeg
+barButtonItem45 - экспорт в XLSX
+barButtonItem46 - экспорт в XLS
+barButtonItem47 - экспорт в PDF
+barButtonItem48 - экспорт в PNG
+barButtonItem49 - экспорт в JPG
+X		- экспорт в xls
+Э		- экспорт в pdf
+
+==Диаграмма радар==
+==Конструктор==
+
+chartTypeRibbonPageGroup1         -  диаграммы
+chartAppearanceRibbonPageGroup1   -  стили
+chartWizardRibbonPageGroup1       -  мастер
+chartTemplatesRibbonPageGroup1    -  шаблоны
+chartPrintExportRibbonPageGroup1  -  печать и экспорт
+
+==Модуль прогнозирования==
+
+Сделать недоступным все контролы.

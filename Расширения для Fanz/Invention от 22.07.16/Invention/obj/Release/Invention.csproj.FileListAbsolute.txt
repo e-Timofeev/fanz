@@ -1,0 +1,2 @@
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\obj\Release\Invention.csprojAssemblyReference.cache
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\obj\Release\Invention.csproj.CoreCompileInputs.cache

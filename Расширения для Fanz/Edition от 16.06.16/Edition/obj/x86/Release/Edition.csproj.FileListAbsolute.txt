@@ -1,0 +1,18 @@
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\x86\Release\Edition.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\x86\Release\Edition.pdb
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\x86\Release\Invention.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\x86\Release\Kernel.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\x86\Release\MathNet.Numerics.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\x86\Release\System.Data.SQLite.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\obj\x86\Release\Edition.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\obj\x86\Release\Edition.pdb
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\obj\x86\Release\Edition.csprojResolveAssemblyReference.cache
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Edition от 16.06.16\Edition\bin\x86\Release\Edition.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Edition от 16.06.16\Edition\bin\x86\Release\Edition.pdb
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Edition от 16.06.16\Edition\bin\x86\Release\Invention.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Edition от 16.06.16\Edition\bin\x86\Release\Kernel.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Edition от 16.06.16\Edition\bin\x86\Release\MathNet.Numerics.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Edition от 16.06.16\Edition\bin\x86\Release\System.Data.SQLite.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Edition от 16.06.16\Edition\obj\x86\Release\Edition.csprojResolveAssemblyReference.cache
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Edition от 16.06.16\Edition\obj\x86\Release\Edition.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Edition от 16.06.16\Edition\obj\x86\Release\Edition.pdb

@@ -1,0 +1,8 @@
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\Debug\Edition.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\Debug\Edition.pdb
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\obj\Debug\Edition.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\obj\Debug\Edition.pdb
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\Debug\System.Data.SQLite.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\Debug\Invention.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\Debug\Kernel.dll
+F:\Программирование. Проекты\Студия 2012\Edition\Edition\bin\Debug\MathNet.Numerics.dll

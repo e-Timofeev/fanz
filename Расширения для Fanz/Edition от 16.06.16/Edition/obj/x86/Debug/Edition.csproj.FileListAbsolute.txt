@@ -1,0 +1,2 @@
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Edition от 16.06.16\Edition\obj\x86\Debug\Edition.csprojAssemblyReference.cache
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Edition от 16.06.16\Edition\obj\x86\Debug\Edition.csproj.CoreCompileInputs.cache

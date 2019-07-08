@@ -1,0 +1,49 @@
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\bin\Debug\Invention.dll
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\bin\Debug\Invention.pdb
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\bin\Debug\MathNet.Numerics.dll
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\bin\Debug\System.Data.SQLite.dll
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\bin\Debug\MathNet.Numerics.xml
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\obj\Debug\Invention.dll
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\obj\Debug\Invention.pdb
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\bin\Debug\Kernel.dll
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\obj\Debug\Invention.csprojResolveAssemblyReference.cache
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\bin\Debug\Invention.dll.config
+F:\Программирование. Проекты\Студия 2012\Invention\Invention\bin\Debug\packages.config
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Invention от 7.02.16\Invention\bin\Debug\packages.config
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Invention от 7.02.16\Invention\bin\Debug\Invention.dll.config
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Invention от 7.02.16\Invention\bin\Debug\Invention.pdb
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Invention от 7.02.16\Invention\bin\Debug\MathNet.Numerics.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Invention от 7.02.16\Invention\bin\Debug\System.Data.SQLite.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Invention от 7.02.16\Invention\bin\Debug\MathNet.Numerics.xml
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Invention от 7.02.16\Invention\obj\Debug\Invention.csprojResolveAssemblyReference.cache
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Invention от 7.02.16\Invention\obj\Debug\Invention.dll
+D:\Проекты\Москва\Fanz_15.06.16\Fanz_15.06.16\Расширения для Fanz\Invention от 7.02.16\Invention\obj\Debug\Invention.pdb
+D:\Проекты\Москва\Старое\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Расширения для Fanz\Invention от 16.06.16\Invention\bin\Debug\packages.config
+D:\Проекты\Москва\Старое\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Расширения для Fanz\Invention от 16.06.16\Invention\bin\Debug\Invention.dll.config
+D:\Проекты\Москва\Старое\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Расширения для Fanz\Invention от 16.06.16\Invention\bin\Debug\Invention.pdb
+D:\Проекты\Москва\Старое\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Расширения для Fanz\Invention от 16.06.16\Invention\bin\Debug\MathNet.Numerics.dll
+D:\Проекты\Москва\Старое\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Расширения для Fanz\Invention от 16.06.16\Invention\bin\Debug\System.Data.SQLite.dll
+D:\Проекты\Москва\Старое\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Расширения для Fanz\Invention от 16.06.16\Invention\bin\Debug\MathNet.Numerics.xml
+D:\Проекты\Москва\Старое\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Расширения для Fanz\Invention от 16.06.16\Invention\obj\Debug\Invention.csprojResolveAssemblyReference.cache
+D:\Проекты\Москва\Старое\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Расширения для Fanz\Invention от 16.06.16\Invention\obj\Debug\Invention.dll
+D:\Проекты\Москва\Старое\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Fanz_22.06.16\Расширения для Fanz\Invention от 16.06.16\Invention\obj\Debug\Invention.pdb
+D:\Проекты\Москва\Москва. После финала - версия 2.0.2\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\packages.config
+D:\Проекты\Москва\Москва. После финала - версия 2.0.2\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\Invention.dll.config
+D:\Проекты\Москва\Москва. После финала - версия 2.0.2\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\Invention.pdb
+D:\Проекты\Москва\Москва. После финала - версия 2.0.2\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\MathNet.Numerics.dll
+D:\Проекты\Москва\Москва. После финала - версия 2.0.2\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\System.Data.SQLite.dll
+D:\Проекты\Москва\Москва. После финала - версия 2.0.2\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\MathNet.Numerics.xml
+D:\Проекты\Москва\Москва. После финала - версия 2.0.2\Расширения для Fanz\Invention от 22.07.16\Invention\obj\Debug\Invention.csprojResolveAssemblyReference.cache
+D:\Проекты\Москва\Москва. После финала - версия 2.0.2\Расширения для Fanz\Invention от 22.07.16\Invention\obj\Debug\Invention.dll
+D:\Проекты\Москва\Москва. После финала - версия 2.0.2\Расширения для Fanz\Invention от 22.07.16\Invention\obj\Debug\Invention.pdb
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\packages.config
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\Invention.dll.config
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\Invention.pdb
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\MathNet.Numerics.dll
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\System.Data.SQLite.dll
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\bin\Debug\MathNet.Numerics.xml
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\obj\Debug\Invention.csprojAssemblyReference.cache
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\obj\Debug\Invention.csproj.CoreCompileInputs.cache
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\obj\Debug\Invention.csproj.CopyComplete
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\obj\Debug\Invention.dll
+C:\Users\Creator\Desktop\Fanz\Документация\Расширения для Fanz\Invention от 22.07.16\Invention\obj\Debug\Invention.pdb
